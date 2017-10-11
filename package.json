@@ -1,0 +1,18 @@
+{
+  "name": "one-monokai-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "The classic monokai syntax theme stylized for use with the Atom One Dark editor theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "atom",
+    "monokai",
+    "dark"
+  ],
+  "repository": "https://github.com/jordanbrauer/one-monokai-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
